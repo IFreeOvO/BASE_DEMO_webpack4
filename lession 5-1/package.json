@@ -1,0 +1,17 @@
+{
+  "name": "lession-5-1",
+  "version": "1.0.0",
+  "description": "library",
+  "main": "./dist/library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}

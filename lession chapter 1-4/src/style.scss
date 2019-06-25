@@ -1,0 +1,19 @@
+
+body {
+  .pic {
+    
+    height: 100px;
+    background: red;
+    transform: translateY(250px);
+  }
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .avatar {
+    border: 1px solid green;
+    height: 200px;
+  }
+}
